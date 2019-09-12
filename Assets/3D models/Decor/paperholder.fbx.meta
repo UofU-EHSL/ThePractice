@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 2c29195308c3b0e4d9683be8612ac0ab
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Componente#24_001
+    100002: Componente#24_002
+    100004: Componente#24_003
+    100006: Componente#24_004
+    100008: Componente#24_005
+    100010: Componente#24_006
+    100012: Componente#24_007
+    100014: Componente#24_008
+    100016: Componente#24_009
+    100018: Componente#24_010
+    100020: Componente#24_011
+    100022: Componente#24_012
+    100024: Componente#24_013
+    100026: Componente#24_014
+    100028: desk folder organizer_001
+    100030: //RootNode
+    400000: Componente#24_001
+    400002: Componente#24_002
+    400004: Componente#24_003
+    400006: Componente#24_004
+    400008: Componente#24_005
+    400010: Componente#24_006
+    400012: Componente#24_007
+    400014: Componente#24_008
+    400016: Componente#24_009
+    400018: Componente#24_010
+    400020: Componente#24_011
+    400022: Componente#24_012
+    400024: Componente#24_013
+    400026: Componente#24_014
+    400028: desk folder organizer_001
+    400030: //RootNode
+    2100000: dbl_desk folder organizer_001
+    2100002: dbl_Group_001
+    2100004: dbl_desk folder organizer_002
+    2100006: dbl_desk folder organizer_003
+    2100008: dbl_desk folder organizer_004
+    2100010: dbl_Componente#24_001
+    2100012: dbl_Componente#24_002
+    2300000: Componente#24_001
+    2300002: Componente#24_002
+    2300004: Componente#24_003
+    2300006: Componente#24_004
+    2300008: Componente#24_005
+    2300010: Componente#24_006
+    2300012: Componente#24_007
+    2300014: Componente#24_008
+    2300016: Componente#24_009
+    2300018: Componente#24_010
+    2300020: Componente#24_011
+    2300022: Componente#24_012
+    2300024: Componente#24_013
+    2300026: Componente#24_014
+    2300028: desk folder organizer_001
+    3300000: Componente#24_001
+    3300002: Componente#24_002
+    3300004: Componente#24_003
+    3300006: Componente#24_004
+    3300008: Componente#24_005
+    3300010: Componente#24_006
+    3300012: Componente#24_007
+    3300014: Componente#24_008
+    3300016: Componente#24_009
+    3300018: Componente#24_010
+    3300020: Componente#24_011
+    3300022: Componente#24_012
+    3300024: Componente#24_013
+    3300026: Componente#24_014
+    3300028: desk folder organizer_001
+    4300000: desk folder organizer_001
+    4300002: Componente#24_014
+    4300004: Componente#24_013
+    4300006: Componente#24_012
+    4300008: Componente#24_011
+    4300010: Componente#24_010
+    4300012: Componente#24_009
+    4300014: Componente#24_008
+    4300016: Componente#24_007
+    4300018: Componente#24_006
+    4300020: Componente#24_005
+    4300022: Componente#24_004
+    4300024: Componente#24_003
+    4300026: Componente#24_002
+    4300028: Componente#24_001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

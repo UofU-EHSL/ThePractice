@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 346b44db76dd861408f4a9adba6e2d81
+timeCreated: 1530025631
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 18
+    100002: 19
+    100004: //RootNode
+    100006: gums 18
+    100008: gums 19
+    100010: gums 20
+    100012: gums 21
+    100014: gums 22
+    100016: gums 23
+    100018: gums 24
+    100020: gums 25
+    100022: gums 26
+    100024: gums 27
+    100026: gums 28
+    100028: gums 29
+    100030: gums 30
+    100032: gums 31
+    100034: Implant 18
+    100036: Implant 19
+    100038: Implant 20
+    100040: Implant 21
+    100042: Implant 22
+    100044: Implant 23
+    100046: Implant 24
+    100048: Implant 25
+    100050: Implant 26
+    100052: Implant 27
+    100054: Implant 28
+    100056: Implant 29
+    100058: Implant 30
+    100060: Implant 31
+    100062: Tooth 20
+    100064: Tooth 21
+    100066: Tooth 22
+    100068: Tooth 23
+    100070: Tooth 24
+    100072: Tooth 25
+    100074: Tooth 26
+    100076: Tooth 27
+    100078: Tooth 28
+    100080: Tooth 29
+    100082: Tooth 30
+    100084: Tooth 31
+    400000: 18
+    400002: 19
+    400004: //RootNode
+    400006: gums 18
+    400008: gums 19
+    400010: gums 20
+    400012: gums 21
+    400014: gums 22
+    400016: gums 23
+    400018: gums 24
+    400020: gums 25
+    400022: gums 26
+    400024: gums 27
+    400026: gums 28
+    400028: gums 29
+    400030: gums 30
+    400032: gums 31
+    400034: Implant 18
+    400036: Implant 19
+    400038: Implant 20
+    400040: Implant 21
+    400042: Implant 22
+    400044: Implant 23
+    400046: Implant 24
+    400048: Implant 25
+    400050: Implant 26
+    400052: Implant 27
+    400054: Implant 28
+    400056: Implant 29
+    400058: Implant 30
+    400060: Implant 31
+    400062: Tooth 20
+    400064: Tooth 21
+    400066: Tooth 22
+    400068: Tooth 23
+    400070: Tooth 24
+    400072: Tooth 25
+    400074: Tooth 26
+    400076: Tooth 27
+    400078: Tooth 28
+    400080: Tooth 29
+    400082: Tooth 30
+    400084: Tooth 31
+    2100000: No Name
+    2300000: 18
+    2300002: 19
+    2300004: gums 18
+    2300006: gums 19
+    2300008: gums 20
+    2300010: gums 21
+    2300012: gums 22
+    2300014: gums 23
+    2300016: gums 24
+    2300018: gums 25
+    2300020: gums 26
+    2300022: gums 27
+    2300024: gums 28
+    2300026: gums 29
+    2300028: gums 30
+    2300030: gums 31
+    2300032: Implant 18
+    2300034: Implant 19
+    2300036: Implant 20
+    2300038: Implant 21
+    2300040: Implant 22
+    2300042: Implant 23
+    2300044: Implant 24
+    2300046: Implant 25
+    2300048: Implant 26
+    2300050: Implant 27
+    2300052: Implant 28
+    2300054: Implant 29
+    2300056: Implant 30
+    2300058: Implant 31
+    2300060: Tooth 20
+    2300062: Tooth 21
+    2300064: Tooth 22
+    2300066: Tooth 23
+    2300068: Tooth 24
+    2300070: Tooth 25
+    2300072: Tooth 26
+    2300074: Tooth 27
+    2300076: Tooth 28
+    2300078: Tooth 29
+    2300080: Tooth 30
+    2300082: Tooth 31
+    3300000: 18
+    3300002: 19
+    3300004: gums 18
+    3300006: gums 19
+    3300008: gums 20
+    3300010: gums 21
+    3300012: gums 22
+    3300014: gums 23
+    3300016: gums 24
+    3300018: gums 25
+    3300020: gums 26
+    3300022: gums 27
+    3300024: gums 28
+    3300026: gums 29
+    3300028: gums 30
+    3300030: gums 31
+    3300032: Implant 18
+    3300034: Implant 19
+    3300036: Implant 20
+    3300038: Implant 21
+    3300040: Implant 22
+    3300042: Implant 23
+    3300044: Implant 24
+    3300046: Implant 25
+    3300048: Implant 26
+    3300050: Implant 27
+    3300052: Implant 28
+    3300054: Implant 29
+    3300056: Implant 30
+    3300058: Implant 31
+    3300060: Tooth 20
+    3300062: Tooth 21
+    3300064: Tooth 22
+    3300066: Tooth 23
+    3300068: Tooth 24
+    3300070: Tooth 25
+    3300072: Tooth 26
+    3300074: Tooth 27
+    3300076: Tooth 28
+    3300078: Tooth 29
+    3300080: Tooth 30
+    3300082: Tooth 31
+    4300000: Implant 18
+    4300002: Implant 19
+    4300004: Implant 20
+    4300006: Implant 21
+    4300008: Implant 22
+    4300010: Implant 24
+    4300012: Implant 25
+    4300014: Implant 26
+    4300016: Implant 27
+    4300018: Implant 28
+    4300020: Implant 29
+    4300022: Implant 30
+    4300024: Implant 31
+    4300026: gums 31
+    4300028: Tooth 31
+    4300030: gums 30
+    4300032: Tooth 30
+    4300034: gums 29
+    4300036: Tooth 29
+    4300038: gums 28
+    4300040: Tooth 28
+    4300042: gums 27
+    4300044: Tooth 27
+    4300046: gums 26
+    4300048: Tooth 26
+    4300050: gums 25
+    4300052: Tooth 25
+    4300054: gums 24
+    4300056: Tooth 24
+    4300058: gums 23
+    4300060: Tooth 23
+    4300062: Implant 23
+    4300064: gums 22
+    4300066: Tooth 22
+    4300068: gums 21
+    4300070: Tooth 21
+    4300072: gums 20
+    4300074: Tooth 20
+    4300076: gums 19
+    4300078: 19
+    4300080: gums 18
+    4300082: 18
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

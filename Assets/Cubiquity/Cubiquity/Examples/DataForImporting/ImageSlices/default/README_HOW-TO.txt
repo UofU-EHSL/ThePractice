@@ -1,0 +1,1 @@
+ProcessVDB.exe -import -imageslices C:\Users\Ben\Documents\Practice\Assets\Resources\Images\DICOM\ben -coloredcubes ben.vdb

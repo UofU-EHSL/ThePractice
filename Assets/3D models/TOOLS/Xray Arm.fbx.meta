@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 29d2b6a228870e2488fb9be965a98ced
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm1
+    100002: Arm2
+    100004: Arm_1
+    100006: Arm_2
+    100008: Base
+    100010: Base_
+    100012: Body
+    100014: Body1
+    100016: Body2
+    100018: Cap1
+    100020: Cap1 1
+    100022: Cap2
+    100024: Cap2 1
+    100026: DoubleHinge
+    100028: Hinge1
+    100030: Hinge2
+    100032: Hinge_1
+    100034: Hinge_2
+    100036: Holder
+    100038: Holder1
+    100040: lens
+    100042: NeckPiece
+    100044: pCube7
+    100046: pCube8
+    100048: pCylinder2
+    100050: polySurface2
+    100052: polySurface3
+    100054: polySurface4
+    100056: polySurface4 1
+    100058: polySurface5
+    100060: polySurface6
+    100062: polySurface7
+    100064: Screen
+    100066: transform10
+    100068: transform11
+    100070: transform12
+    100072: transform13
+    100074: transform16
+    100076: transform17
+    100078: transform18
+    100080: transform19
+    100082: transform20
+    100084: transform3
+    100086: transform4
+    100088: transform5
+    100090: transform6
+    100092: transform7
+    100094: transform8
+    100096: transform9
+    100098: Xray
+    100100: //RootNode
+    400000: Arm1
+    400002: Arm2
+    400004: Arm_1
+    400006: Arm_2
+    400008: Base
+    400010: Base_
+    400012: Body
+    400014: Body1
+    400016: Body2
+    400018: Cap1
+    400020: Cap1 1
+    400022: Cap2
+    400024: Cap2 1
+    400026: DoubleHinge
+    400028: Hinge1
+    400030: Hinge2
+    400032: Hinge_1
+    400034: Hinge_2
+    400036: Holder
+    400038: Holder1
+    400040: lens
+    400042: NeckPiece
+    400044: pCube7
+    400046: pCube8
+    400048: pCylinder2
+    400050: polySurface2
+    400052: polySurface3
+    400054: polySurface4
+    400056: polySurface4 1
+    400058: polySurface5
+    400060: polySurface6
+    400062: polySurface7
+    400064: Screen
+    400066: transform10
+    400068: transform11
+    400070: transform12
+    400072: transform13
+    400074: transform16
+    400076: transform17
+    400078: transform18
+    400080: transform19
+    400082: transform20
+    400084: transform3
+    400086: transform4
+    400088: transform5
+    400090: transform6
+    400092: transform7
+    400094: transform8
+    400096: transform9
+    400098: Xray
+    400100: //RootNode
+    2100000: lambert1
+    2300000: Arm1
+    2300002: Arm2
+    2300004: Base_
+    2300006: Body
+    2300008: Cap1
+    2300010: Cap2
+    2300012: DoubleHinge
+    2300014: Hinge1
+    2300016: Hinge2
+    2300018: Holder
+    2300020: lens
+    2300022: NeckPiece
+    2300024: Screen
+    2300026: Xray
+    3300000: Arm1
+    3300002: Arm2
+    3300004: Base_
+    3300006: Body
+    3300008: Cap1
+    3300010: Cap2
+    3300012: DoubleHinge
+    3300014: Hinge1
+    3300016: Hinge2
+    3300018: Holder
+    3300020: lens
+    3300022: NeckPiece
+    3300024: Screen
+    3300026: Xray
+    4300000: Base_
+    4300002: Screen
+    4300004: Hinge1
+    4300006: Body
+    4300008: Arm1
+    4300010: DoubleHinge
+    4300012: Arm2
+    4300014: Hinge2
+    4300016: Holder
+    4300018: Cap2
+    4300020: Cap1
+    4300022: Xray
+    4300024: lens
+    4300026: NeckPiece
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

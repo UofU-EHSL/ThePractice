@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 87d02d77acf35fe49906a625abb6988a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Tools
+    100002: //RootNode
+    100004: Tools.001
+    100006: Tools.002
+    100008: Tools.003
+    100010: Tools.004
+    100012: Tools.005
+    100014: Tools.006
+    100016: Tools.007
+    100018: Tools.008
+    100020: Tools.009
+    100022: Tools.010
+    100024: Tools.011
+    100026: Tools.012
+    100028: Tools.013
+    100030: Tools.014
+    100032: Tools.015
+    100034: Tools.016
+    100036: Tools.017
+    100038: Tools.018
+    100040: Tools.019
+    100042: Tools.020
+    100044: Tools.021
+    400000: Tools
+    400002: //RootNode
+    400004: Tools.001
+    400006: Tools.002
+    400008: Tools.003
+    400010: Tools.004
+    400012: Tools.005
+    400014: Tools.006
+    400016: Tools.007
+    400018: Tools.008
+    400020: Tools.009
+    400022: Tools.010
+    400024: Tools.011
+    400026: Tools.012
+    400028: Tools.013
+    400030: Tools.014
+    400032: Tools.015
+    400034: Tools.016
+    400036: Tools.017
+    400038: Tools.018
+    400040: Tools.019
+    400042: Tools.020
+    400044: Tools.021
+    2100000: No Name
+    2300000: Tools
+    2300002: Tools.001
+    2300004: Tools.002
+    2300006: Tools.003
+    2300008: Tools.004
+    2300010: Tools.005
+    2300012: Tools.006
+    2300014: Tools.007
+    2300016: Tools.008
+    2300018: Tools.009
+    2300020: Tools.010
+    2300022: Tools.011
+    2300024: Tools.012
+    2300026: Tools.013
+    2300028: Tools.014
+    2300030: Tools.015
+    2300032: Tools.016
+    2300034: Tools.017
+    2300036: Tools.018
+    2300038: Tools.019
+    2300040: Tools.020
+    2300042: Tools.021
+    3300000: Tools
+    3300002: Tools.001
+    3300004: Tools.002
+    3300006: Tools.003
+    3300008: Tools.004
+    3300010: Tools.005
+    3300012: Tools.006
+    3300014: Tools.007
+    3300016: Tools.008
+    3300018: Tools.009
+    3300020: Tools.010
+    3300022: Tools.011
+    3300024: Tools.012
+    3300026: Tools.013
+    3300028: Tools.014
+    3300030: Tools.015
+    3300032: Tools.016
+    3300034: Tools.017
+    3300036: Tools.018
+    3300038: Tools.019
+    3300040: Tools.020
+    3300042: Tools.021
+    4300000: Tools.021
+    4300002: Tools.020
+    4300004: Tools.019
+    4300006: Tools.018
+    4300008: Tools.017
+    4300010: Tools.016
+    4300012: Tools.015
+    4300014: Tools.014
+    4300016: Tools.013
+    4300018: Tools.012
+    4300020: Tools.011
+    4300022: Tools.010
+    4300024: Tools.009
+    4300026: Tools.008
+    4300028: Tools.007
+    4300030: Tools.006
+    4300032: Tools.005
+    4300034: Tools.004
+    4300036: Tools.003
+    4300038: Tools.002
+    4300040: Tools.001
+    4300042: Tools
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

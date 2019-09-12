@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: 512aa5697c3ecd74399bfd25010d3c55
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cabinet-ADEC-594 Make Ready 28
+    100002: Cabinet-ADEC-594 Make Ready 28.001
+    100004: Cabinet-ADEC-594 Make Ready 28.002
+    100006: Cabinet-ADEC-594 Make Ready 28.003
+    100008: Cabinet-ADEC-594 Make Ready 28.004
+    100010: Cabinet-ADEC-594 Make Ready 28.005
+    100012: Cabinet-ADEC-594 Make Ready 28.006
+    100014: Cabinet-ADEC-594 Make Ready 28.007
+    100016: Cabinet-ADEC-594 Make Ready 28.008
+    100018: Cabinet-ADEC-594 Make Ready 28.009
+    100020: Cabinet-ADEC-594 Make Ready 28.010
+    100022: Cabinet-ADEC-594 Make Ready 28.011
+    100024: Cabinet-ADEC-594 Make Ready 28.012
+    100026: Cabinet-ADEC-594 Make Ready 28.013
+    100028: Cabinet-ADEC-594 Make Ready 28.014
+    100030: Cabinet-ADEC-594 Make Ready 28.015
+    100032: Cabinet-ADEC-594 Make Ready 28.016
+    100034: //RootNode
+    100036: Cabinet-ADEC-594 Sterilization Tower-28
+    100038: Cabinet-ADEC-594 Sterilization Tower-28.001
+    100040: Cabinet-ADEC-594 Sterilization Tower-28.002
+    100042: Cabinet-ADEC-594 Sterilization Tower-28.003
+    100044: Cabinet-ADEC-594 Sterilization Tower-28.004
+    100046: Cabinet-ADEC-594 Sterilization Tower-28.005
+    100048: Cabinet-ADEC-594 Sterilization Tower-28.006
+    100050: Cabinet-ADEC-594 Sterilization Tower-28.007
+    100052: Cabinet-ADEC-594 Sterilization Tower-28.008
+    100054: Cabinet-ADEC-594 Sterilization Tower-28.009
+    100056: Cabinet-ADEC-594 Sterilization Tower-28.010
+    100058: Cabinet-ADEC-594 Sterilization Tower-28.011
+    100060: Cabinet-ADEC-594 Sterilization Tower-28.012
+    100062: Cabinet-ADEC-594 Sterilization Tower-28.013
+    100064: Cabinet-ADEC-594 Sterilization Tower-28.014
+    100066: Cabinet-ADEC-594 Sterilization Tower-28.015
+    100068: Cabinet-ADEC-594 Sterilization Tower-28.016
+    100070: Cabinet-ADEC-594 Sterilization Tower-28.017
+    100072: Cabinet-ADEC-594 Sterilization Tower-28.018
+    100074: Cabinet-ADEC-594 Sterilization Tower-28.019
+    100076: Cabinet-ADEC-594 Sterilization Tower-28.020
+    100078: Cabinet-ADEC-594 Sterilization Tower-28.021
+    100080: Cabinet-ADEC-594 Sterilization Tower-28.022
+    100082: Cabinet-ADEC-594 Sterilization Tower-28.023
+    100084: Cabinet-ADEC-594 Sterilization Tower-28.024
+    100086: Cabinet-ADEC-594 Sterilization Tower-28.025
+    100088: Cabinet-ADEC-594 Sterilization Tower-28.026
+    100090: Cabinet-ADEC-594 Sterilization Tower-28.027
+    100092: Cabinet-ADEC-594 Sterilization Tower-28.028
+    100094: Cabinet-ADEC-594 Sterilization Tower-28.029
+    100096: Cabinet-ADEC-594 Sterilization Tower-28.030
+    100098: Cabinet-ADEC-594 Sterilization Tower-28.031
+    100100: Cabinet-ADEC-594 Sterilization Tower-28.032
+    100102: Cabinet-ADEC-594 Sterilization Tower-28.033
+    100104: Cabinet-ADEC-594 Sterilization Tower-28.034
+    100106: Cabinet-ADEC-594 Sterilization Tower-28.035
+    100108: Cabinet-ADEC-594 Sterilization Tower-28.036
+    400000: Cabinet-ADEC-594 Make Ready 28
+    400002: Cabinet-ADEC-594 Make Ready 28.001
+    400004: Cabinet-ADEC-594 Make Ready 28.002
+    400006: Cabinet-ADEC-594 Make Ready 28.003
+    400008: Cabinet-ADEC-594 Make Ready 28.004
+    400010: Cabinet-ADEC-594 Make Ready 28.005
+    400012: Cabinet-ADEC-594 Make Ready 28.006
+    400014: Cabinet-ADEC-594 Make Ready 28.007
+    400016: Cabinet-ADEC-594 Make Ready 28.008
+    400018: Cabinet-ADEC-594 Make Ready 28.009
+    400020: Cabinet-ADEC-594 Make Ready 28.010
+    400022: Cabinet-ADEC-594 Make Ready 28.011
+    400024: Cabinet-ADEC-594 Make Ready 28.012
+    400026: Cabinet-ADEC-594 Make Ready 28.013
+    400028: Cabinet-ADEC-594 Make Ready 28.014
+    400030: Cabinet-ADEC-594 Make Ready 28.015
+    400032: Cabinet-ADEC-594 Make Ready 28.016
+    400034: //RootNode
+    400036: Cabinet-ADEC-594 Sterilization Tower-28
+    400038: Cabinet-ADEC-594 Sterilization Tower-28.001
+    400040: Cabinet-ADEC-594 Sterilization Tower-28.002
+    400042: Cabinet-ADEC-594 Sterilization Tower-28.003
+    400044: Cabinet-ADEC-594 Sterilization Tower-28.004
+    400046: Cabinet-ADEC-594 Sterilization Tower-28.005
+    400048: Cabinet-ADEC-594 Sterilization Tower-28.006
+    400050: Cabinet-ADEC-594 Sterilization Tower-28.007
+    400052: Cabinet-ADEC-594 Sterilization Tower-28.008
+    400054: Cabinet-ADEC-594 Sterilization Tower-28.009
+    400056: Cabinet-ADEC-594 Sterilization Tower-28.010
+    400058: Cabinet-ADEC-594 Sterilization Tower-28.011
+    400060: Cabinet-ADEC-594 Sterilization Tower-28.012
+    400062: Cabinet-ADEC-594 Sterilization Tower-28.013
+    400064: Cabinet-ADEC-594 Sterilization Tower-28.014
+    400066: Cabinet-ADEC-594 Sterilization Tower-28.015
+    400068: Cabinet-ADEC-594 Sterilization Tower-28.016
+    400070: Cabinet-ADEC-594 Sterilization Tower-28.017
+    400072: Cabinet-ADEC-594 Sterilization Tower-28.018
+    400074: Cabinet-ADEC-594 Sterilization Tower-28.019
+    400076: Cabinet-ADEC-594 Sterilization Tower-28.020
+    400078: Cabinet-ADEC-594 Sterilization Tower-28.021
+    400080: Cabinet-ADEC-594 Sterilization Tower-28.022
+    400082: Cabinet-ADEC-594 Sterilization Tower-28.023
+    400084: Cabinet-ADEC-594 Sterilization Tower-28.024
+    400086: Cabinet-ADEC-594 Sterilization Tower-28.025
+    400088: Cabinet-ADEC-594 Sterilization Tower-28.026
+    400090: Cabinet-ADEC-594 Sterilization Tower-28.027
+    400092: Cabinet-ADEC-594 Sterilization Tower-28.028
+    400094: Cabinet-ADEC-594 Sterilization Tower-28.029
+    400096: Cabinet-ADEC-594 Sterilization Tower-28.030
+    400098: Cabinet-ADEC-594 Sterilization Tower-28.031
+    400100: Cabinet-ADEC-594 Sterilization Tower-28.032
+    400102: Cabinet-ADEC-594 Sterilization Tower-28.033
+    400104: Cabinet-ADEC-594 Sterilization Tower-28.034
+    400106: Cabinet-ADEC-594 Sterilization Tower-28.035
+    400108: Cabinet-ADEC-594 Sterilization Tower-28.036
+    2100000: No Name
+    2300000: Cabinet-ADEC-594 Make Ready 28
+    2300002: Cabinet-ADEC-594 Make Ready 28.001
+    2300004: Cabinet-ADEC-594 Make Ready 28.002
+    2300006: Cabinet-ADEC-594 Make Ready 28.003
+    2300008: Cabinet-ADEC-594 Make Ready 28.004
+    2300010: Cabinet-ADEC-594 Make Ready 28.005
+    2300012: Cabinet-ADEC-594 Make Ready 28.006
+    2300014: Cabinet-ADEC-594 Make Ready 28.007
+    2300016: Cabinet-ADEC-594 Make Ready 28.008
+    2300018: Cabinet-ADEC-594 Make Ready 28.009
+    2300020: Cabinet-ADEC-594 Make Ready 28.010
+    2300022: Cabinet-ADEC-594 Make Ready 28.011
+    2300024: Cabinet-ADEC-594 Make Ready 28.012
+    2300026: Cabinet-ADEC-594 Make Ready 28.013
+    2300028: Cabinet-ADEC-594 Make Ready 28.014
+    2300030: Cabinet-ADEC-594 Make Ready 28.015
+    2300032: Cabinet-ADEC-594 Make Ready 28.016
+    2300034: //RootNode
+    2300036: Cabinet-ADEC-594 Sterilization Tower-28
+    2300038: Cabinet-ADEC-594 Sterilization Tower-28.001
+    2300040: Cabinet-ADEC-594 Sterilization Tower-28.002
+    2300042: Cabinet-ADEC-594 Sterilization Tower-28.003
+    2300044: Cabinet-ADEC-594 Sterilization Tower-28.004
+    2300046: Cabinet-ADEC-594 Sterilization Tower-28.005
+    2300048: Cabinet-ADEC-594 Sterilization Tower-28.006
+    2300050: Cabinet-ADEC-594 Sterilization Tower-28.007
+    2300052: Cabinet-ADEC-594 Sterilization Tower-28.008
+    2300054: Cabinet-ADEC-594 Sterilization Tower-28.009
+    2300056: Cabinet-ADEC-594 Sterilization Tower-28.010
+    2300058: Cabinet-ADEC-594 Sterilization Tower-28.011
+    2300060: Cabinet-ADEC-594 Sterilization Tower-28.012
+    2300062: Cabinet-ADEC-594 Sterilization Tower-28.013
+    2300064: Cabinet-ADEC-594 Sterilization Tower-28.014
+    2300066: Cabinet-ADEC-594 Sterilization Tower-28.015
+    2300068: Cabinet-ADEC-594 Sterilization Tower-28.016
+    2300070: Cabinet-ADEC-594 Sterilization Tower-28.017
+    2300072: Cabinet-ADEC-594 Sterilization Tower-28.018
+    2300074: Cabinet-ADEC-594 Sterilization Tower-28.019
+    2300076: Cabinet-ADEC-594 Sterilization Tower-28.020
+    2300078: Cabinet-ADEC-594 Sterilization Tower-28.021
+    2300080: Cabinet-ADEC-594 Sterilization Tower-28.022
+    2300082: Cabinet-ADEC-594 Sterilization Tower-28.023
+    2300084: Cabinet-ADEC-594 Sterilization Tower-28.024
+    2300086: Cabinet-ADEC-594 Sterilization Tower-28.025
+    2300088: Cabinet-ADEC-594 Sterilization Tower-28.026
+    2300090: Cabinet-ADEC-594 Sterilization Tower-28.027
+    2300092: Cabinet-ADEC-594 Sterilization Tower-28.028
+    2300094: Cabinet-ADEC-594 Sterilization Tower-28.029
+    2300096: Cabinet-ADEC-594 Sterilization Tower-28.030
+    2300098: Cabinet-ADEC-594 Sterilization Tower-28.031
+    2300100: Cabinet-ADEC-594 Sterilization Tower-28.032
+    2300102: Cabinet-ADEC-594 Sterilization Tower-28.033
+    2300104: Cabinet-ADEC-594 Sterilization Tower-28.034
+    2300106: Cabinet-ADEC-594 Sterilization Tower-28.035
+    2300108: Cabinet-ADEC-594 Sterilization Tower-28.036
+    3300000: Cabinet-ADEC-594 Make Ready 28
+    3300002: Cabinet-ADEC-594 Make Ready 28.001
+    3300004: Cabinet-ADEC-594 Make Ready 28.002
+    3300006: Cabinet-ADEC-594 Make Ready 28.003
+    3300008: Cabinet-ADEC-594 Make Ready 28.004
+    3300010: Cabinet-ADEC-594 Make Ready 28.005
+    3300012: Cabinet-ADEC-594 Make Ready 28.006
+    3300014: Cabinet-ADEC-594 Make Ready 28.007
+    3300016: Cabinet-ADEC-594 Make Ready 28.008
+    3300018: Cabinet-ADEC-594 Make Ready 28.009
+    3300020: Cabinet-ADEC-594 Make Ready 28.010
+    3300022: Cabinet-ADEC-594 Make Ready 28.011
+    3300024: Cabinet-ADEC-594 Make Ready 28.012
+    3300026: Cabinet-ADEC-594 Make Ready 28.013
+    3300028: Cabinet-ADEC-594 Make Ready 28.014
+    3300030: Cabinet-ADEC-594 Make Ready 28.015
+    3300032: Cabinet-ADEC-594 Make Ready 28.016
+    3300034: //RootNode
+    3300036: Cabinet-ADEC-594 Sterilization Tower-28
+    3300038: Cabinet-ADEC-594 Sterilization Tower-28.001
+    3300040: Cabinet-ADEC-594 Sterilization Tower-28.002
+    3300042: Cabinet-ADEC-594 Sterilization Tower-28.003
+    3300044: Cabinet-ADEC-594 Sterilization Tower-28.004
+    3300046: Cabinet-ADEC-594 Sterilization Tower-28.005
+    3300048: Cabinet-ADEC-594 Sterilization Tower-28.006
+    3300050: Cabinet-ADEC-594 Sterilization Tower-28.007
+    3300052: Cabinet-ADEC-594 Sterilization Tower-28.008
+    3300054: Cabinet-ADEC-594 Sterilization Tower-28.009
+    3300056: Cabinet-ADEC-594 Sterilization Tower-28.010
+    3300058: Cabinet-ADEC-594 Sterilization Tower-28.011
+    3300060: Cabinet-ADEC-594 Sterilization Tower-28.012
+    3300062: Cabinet-ADEC-594 Sterilization Tower-28.013
+    3300064: Cabinet-ADEC-594 Sterilization Tower-28.014
+    3300066: Cabinet-ADEC-594 Sterilization Tower-28.015
+    3300068: Cabinet-ADEC-594 Sterilization Tower-28.016
+    3300070: Cabinet-ADEC-594 Sterilization Tower-28.017
+    3300072: Cabinet-ADEC-594 Sterilization Tower-28.018
+    3300074: Cabinet-ADEC-594 Sterilization Tower-28.019
+    3300076: Cabinet-ADEC-594 Sterilization Tower-28.020
+    3300078: Cabinet-ADEC-594 Sterilization Tower-28.021
+    3300080: Cabinet-ADEC-594 Sterilization Tower-28.022
+    3300082: Cabinet-ADEC-594 Sterilization Tower-28.023
+    3300084: Cabinet-ADEC-594 Sterilization Tower-28.024
+    3300086: Cabinet-ADEC-594 Sterilization Tower-28.025
+    3300088: Cabinet-ADEC-594 Sterilization Tower-28.026
+    3300090: Cabinet-ADEC-594 Sterilization Tower-28.027
+    3300092: Cabinet-ADEC-594 Sterilization Tower-28.028
+    3300094: Cabinet-ADEC-594 Sterilization Tower-28.029
+    3300096: Cabinet-ADEC-594 Sterilization Tower-28.030
+    3300098: Cabinet-ADEC-594 Sterilization Tower-28.031
+    3300100: Cabinet-ADEC-594 Sterilization Tower-28.032
+    3300102: Cabinet-ADEC-594 Sterilization Tower-28.033
+    3300104: Cabinet-ADEC-594 Sterilization Tower-28.034
+    3300106: Cabinet-ADEC-594 Sterilization Tower-28.035
+    3300108: Cabinet-ADEC-594 Sterilization Tower-28.036
+    4300000: Cabinet-ADEC-594 Make Ready 28.016
+    4300002: Cabinet-ADEC-594 Make Ready 28.015
+    4300004: Cabinet-ADEC-594 Make Ready 28.014
+    4300006: Cabinet-ADEC-594 Make Ready 28.013
+    4300008: Cabinet-ADEC-594 Make Ready 28.012
+    4300010: Cabinet-ADEC-594 Make Ready 28.011
+    4300012: Cabinet-ADEC-594 Make Ready 28.010
+    4300014: Cabinet-ADEC-594 Make Ready 28.009
+    4300016: Cabinet-ADEC-594 Make Ready 28.008
+    4300018: Cabinet-ADEC-594 Make Ready 28.007
+    4300020: Cabinet-ADEC-594 Make Ready 28.006
+    4300022: Cabinet-ADEC-594 Make Ready 28.005
+    4300024: Cabinet-ADEC-594 Make Ready 28.004
+    4300026: Cabinet-ADEC-594 Make Ready 28.003
+    4300028: Cabinet-ADEC-594 Make Ready 28.002
+    4300030: Cabinet-ADEC-594 Make Ready 28.001
+    4300032: Cabinet-ADEC-594 Make Ready 28
+    4300034: Cabinet-ADEC-594 Sterilization Tower-28
+    4300036: Cabinet-ADEC-594 Sterilization Tower-28.036
+    4300038: Cabinet-ADEC-594 Sterilization Tower-28.035
+    4300040: Cabinet-ADEC-594 Sterilization Tower-28.034
+    4300042: Cabinet-ADEC-594 Sterilization Tower-28.033
+    4300044: Cabinet-ADEC-594 Sterilization Tower-28.032
+    4300046: Cabinet-ADEC-594 Sterilization Tower-28.031
+    4300048: Cabinet-ADEC-594 Sterilization Tower-28.030
+    4300050: Cabinet-ADEC-594 Sterilization Tower-28.029
+    4300052: Cabinet-ADEC-594 Sterilization Tower-28.028
+    4300054: Cabinet-ADEC-594 Sterilization Tower-28.027
+    4300056: Cabinet-ADEC-594 Sterilization Tower-28.026
+    4300058: Cabinet-ADEC-594 Sterilization Tower-28.025
+    4300060: Cabinet-ADEC-594 Sterilization Tower-28.024
+    4300062: Cabinet-ADEC-594 Sterilization Tower-28.023
+    4300064: Cabinet-ADEC-594 Sterilization Tower-28.022
+    4300066: Cabinet-ADEC-594 Sterilization Tower-28.021
+    4300068: Cabinet-ADEC-594 Sterilization Tower-28.020
+    4300070: Cabinet-ADEC-594 Sterilization Tower-28.019
+    4300072: Cabinet-ADEC-594 Sterilization Tower-28.018
+    4300074: Cabinet-ADEC-594 Sterilization Tower-28.017
+    4300076: Cabinet-ADEC-594 Sterilization Tower-28.016
+    4300078: Cabinet-ADEC-594 Sterilization Tower-28.015
+    4300080: Cabinet-ADEC-594 Sterilization Tower-28.014
+    4300082: Cabinet-ADEC-594 Sterilization Tower-28.013
+    4300084: Cabinet-ADEC-594 Sterilization Tower-28.012
+    4300086: Cabinet-ADEC-594 Sterilization Tower-28.011
+    4300088: Cabinet-ADEC-594 Sterilization Tower-28.010
+    4300090: Cabinet-ADEC-594 Sterilization Tower-28.009
+    4300092: Cabinet-ADEC-594 Sterilization Tower-28.008
+    4300094: Cabinet-ADEC-594 Sterilization Tower-28.007
+    4300096: Cabinet-ADEC-594 Sterilization Tower-28.006
+    4300098: Cabinet-ADEC-594 Sterilization Tower-28.005
+    4300100: Cabinet-ADEC-594 Sterilization Tower-28.004
+    4300102: Cabinet-ADEC-594 Sterilization Tower-28.003
+    4300104: Cabinet-ADEC-594 Sterilization Tower-28.002
+    4300106: Cabinet-ADEC-594 Sterilization Tower-28.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

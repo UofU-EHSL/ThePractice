@@ -1,0 +1,525 @@
+fileFormatVersion: 2
+guid: dd9d40a1956fa4044be8e8f174102187
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bone 10
+    100002: bone 11
+    100004: bone 12
+    100006: bone 13
+    100008: bone 14
+    100010: bone 15
+    100012: bone 2
+    100014: bone 3
+    100016: bone 4
+    100018: bone 5
+    100020: bone 6
+    100022: bone 7
+    100024: bone 8
+    100026: bone 9
+    100028: bone cut 10
+    100030: bone cut 11
+    100032: bone cut 12
+    100034: bone cut 13
+    100036: bone cut 14
+    100038: bone cut 15
+    100040: bone cut 2
+    100042: bone cut 3
+    100044: bone cut 4
+    100046: bone cut 5
+    100048: bone cut 6
+    100050: bone cut 7
+    100052: bone cut 8
+    100054: bone cut 9
+    100056: bone cut2 10
+    100058: bone cut2 11
+    100060: bone cut2 12
+    100062: bone cut2 13
+    100064: bone cut2 14
+    100066: bone cut2 15
+    100068: bone cut2 2
+    100070: bone cut2 3
+    100072: bone cut2 4
+    100074: bone cut2 5
+    100076: bone cut2 6
+    100078: bone cut2 7
+    100080: bone cut2 8
+    100082: bone cut2 9
+    100084: gums 10
+    100086: gums 11
+    100088: gums 12
+    100090: gums 13
+    100092: gums 14
+    100094: gums 15
+    100096: gums 2
+    100098: gums 3
+    100100: gums 4
+    100102: gums 5
+    100104: gums 6
+    100106: gums 7
+    100108: gums 8
+    100110: gums 9
+    100112: gums cut 10
+    100114: gums cut 11
+    100116: gums cut 12
+    100118: gums cut 13
+    100120: gums cut 14
+    100122: gums cut 15
+    100124: gums cut 2
+    100126: gums cut 3
+    100128: gums cut 4
+    100130: gums cut 5
+    100132: gums cut 6
+    100134: gums cut 7
+    100136: gums cut 8
+    100138: gums cut 9
+    100140: //RootNode
+    400000: bone 10
+    400002: bone 11
+    400004: bone 12
+    400006: bone 13
+    400008: bone 14
+    400010: bone 15
+    400012: bone 2
+    400014: bone 3
+    400016: bone 4
+    400018: bone 5
+    400020: bone 6
+    400022: bone 7
+    400024: bone 8
+    400026: bone 9
+    400028: bone cut 10
+    400030: bone cut 11
+    400032: bone cut 12
+    400034: bone cut 13
+    400036: bone cut 14
+    400038: bone cut 15
+    400040: bone cut 2
+    400042: bone cut 3
+    400044: bone cut 4
+    400046: bone cut 5
+    400048: bone cut 6
+    400050: bone cut 7
+    400052: bone cut 8
+    400054: bone cut 9
+    400056: bone cut2 10
+    400058: bone cut2 11
+    400060: bone cut2 12
+    400062: bone cut2 13
+    400064: bone cut2 14
+    400066: bone cut2 15
+    400068: bone cut2 2
+    400070: bone cut2 3
+    400072: bone cut2 4
+    400074: bone cut2 5
+    400076: bone cut2 6
+    400078: bone cut2 7
+    400080: bone cut2 8
+    400082: bone cut2 9
+    400084: gums 10
+    400086: gums 11
+    400088: gums 12
+    400090: gums 13
+    400092: gums 14
+    400094: gums 15
+    400096: gums 2
+    400098: gums 3
+    400100: gums 4
+    400102: gums 5
+    400104: gums 6
+    400106: gums 7
+    400108: gums 8
+    400110: gums 9
+    400112: gums cut 10
+    400114: gums cut 11
+    400116: gums cut 12
+    400118: gums cut 13
+    400120: gums cut 14
+    400122: gums cut 15
+    400124: gums cut 2
+    400126: gums cut 3
+    400128: gums cut 4
+    400130: gums cut 5
+    400132: gums cut 6
+    400134: gums cut 7
+    400136: gums cut 8
+    400138: gums cut 9
+    400140: //RootNode
+    2100000: mtl1.086
+    2100002: mtl1.029
+    2100004: mtl1.031
+    2100006: mtl1.032
+    2100008: mtl1.033
+    2100010: mtl1.034
+    2100012: mtl1.035
+    2100014: mtl1.036
+    2100016: mtl1.037
+    2100018: mtl1.038
+    2100020: mtl1.039
+    2100022: mtl1.040
+    2100024: mtl1.041
+    2100026: mtl1.042
+    2100028: mtl1.044
+    2100030: mtl1.030
+    2100032: mtl1.046
+    2100034: mtl1.047
+    2100036: mtl1.048
+    2100038: mtl1.049
+    2100040: mtl1.050
+    2100042: mtl1.051
+    2100044: mtl1.052
+    2100046: mtl1.053
+    2100048: mtl1.054
+    2100050: mtl1.055
+    2100052: mtl1.056
+    2100054: mtl1.057
+    2100056: mtl1.071
+    2100058: mtl1.070
+    2100060: mtl1.069
+    2100062: mtl1.068
+    2100064: mtl1.067
+    2100066: mtl1.066
+    2100068: mtl1.065
+    2100070: mtl1.064
+    2100072: mtl1.063
+    2100074: mtl1.062
+    2100076: mtl1.061
+    2100078: mtl1.060
+    2100080: mtl1.059
+    2100082: mtl1.058
+    2100084: mtl1.085
+    2100086: mtl1.084
+    2100088: mtl1.083
+    2100090: mtl1.082
+    2100092: mtl1.081
+    2100094: mtl1.080
+    2100096: mtl1.079
+    2100098: mtl1.078
+    2100100: mtl1.077
+    2100102: mtl1.076
+    2100104: mtl1.075
+    2100106: mtl1.074
+    2100108: mtl1.073
+    2100110: mtl1.072
+    2100112: mtl1.094
+    2100114: mtl1.093
+    2100116: mtl1.092
+    2100118: mtl1.091
+    2100120: mtl1.090
+    2100122: mtl1.089
+    2100124: mtl1.088
+    2100126: mtl1.087
+    2100128: mtl1.100
+    2100130: mtl1.099
+    2100132: mtl1.098
+    2100134: mtl1.097
+    2100136: mtl1.096
+    2100138: mtl1.095
+    2100140: mtl1.137
+    2100142: mtl1.138
+    2100144: mtl1.130
+    2100146: mtl1.129
+    2100148: mtl1.142
+    2100150: mtl1.141
+    2100152: mtl1.140
+    2100154: mtl1.139
+    2100156: mtl1.131
+    2100158: mtl1.136
+    2100160: mtl1.135
+    2100162: mtl1.134
+    2100164: mtl1.133
+    2100166: mtl1.132
+    2300000: bone 10
+    2300002: bone 11
+    2300004: bone 12
+    2300006: bone 13
+    2300008: bone 14
+    2300010: bone 15
+    2300012: bone 2
+    2300014: bone 3
+    2300016: bone 4
+    2300018: bone 5
+    2300020: bone 6
+    2300022: bone 7
+    2300024: bone 8
+    2300026: bone 9
+    2300028: bone cut 10
+    2300030: bone cut 11
+    2300032: bone cut 12
+    2300034: bone cut 13
+    2300036: bone cut 14
+    2300038: bone cut 15
+    2300040: bone cut 2
+    2300042: bone cut 3
+    2300044: bone cut 4
+    2300046: bone cut 5
+    2300048: bone cut 6
+    2300050: bone cut 7
+    2300052: bone cut 8
+    2300054: bone cut 9
+    2300056: bone cut2 10
+    2300058: bone cut2 11
+    2300060: bone cut2 12
+    2300062: bone cut2 13
+    2300064: bone cut2 14
+    2300066: bone cut2 15
+    2300068: bone cut2 2
+    2300070: bone cut2 3
+    2300072: bone cut2 4
+    2300074: bone cut2 5
+    2300076: bone cut2 6
+    2300078: bone cut2 7
+    2300080: bone cut2 8
+    2300082: bone cut2 9
+    2300084: gums 10
+    2300086: gums 11
+    2300088: gums 12
+    2300090: gums 13
+    2300092: gums 14
+    2300094: gums 15
+    2300096: gums 2
+    2300098: gums 3
+    2300100: gums 4
+    2300102: gums 5
+    2300104: gums 6
+    2300106: gums 7
+    2300108: gums 8
+    2300110: gums 9
+    2300112: gums cut 10
+    2300114: gums cut 11
+    2300116: gums cut 12
+    2300118: gums cut 13
+    2300120: gums cut 14
+    2300122: gums cut 15
+    2300124: gums cut 2
+    2300126: gums cut 3
+    2300128: gums cut 4
+    2300130: gums cut 5
+    2300132: gums cut 6
+    2300134: gums cut 7
+    2300136: gums cut 8
+    2300138: gums cut 9
+    3300000: bone 10
+    3300002: bone 11
+    3300004: bone 12
+    3300006: bone 13
+    3300008: bone 14
+    3300010: bone 15
+    3300012: bone 2
+    3300014: bone 3
+    3300016: bone 4
+    3300018: bone 5
+    3300020: bone 6
+    3300022: bone 7
+    3300024: bone 8
+    3300026: bone 9
+    3300028: bone cut 10
+    3300030: bone cut 11
+    3300032: bone cut 12
+    3300034: bone cut 13
+    3300036: bone cut 14
+    3300038: bone cut 15
+    3300040: bone cut 2
+    3300042: bone cut 3
+    3300044: bone cut 4
+    3300046: bone cut 5
+    3300048: bone cut 6
+    3300050: bone cut 7
+    3300052: bone cut 8
+    3300054: bone cut 9
+    3300056: bone cut2 10
+    3300058: bone cut2 11
+    3300060: bone cut2 12
+    3300062: bone cut2 13
+    3300064: bone cut2 14
+    3300066: bone cut2 15
+    3300068: bone cut2 2
+    3300070: bone cut2 3
+    3300072: bone cut2 4
+    3300074: bone cut2 5
+    3300076: bone cut2 6
+    3300078: bone cut2 7
+    3300080: bone cut2 8
+    3300082: bone cut2 9
+    3300084: gums 10
+    3300086: gums 11
+    3300088: gums 12
+    3300090: gums 13
+    3300092: gums 14
+    3300094: gums 15
+    3300096: gums 2
+    3300098: gums 3
+    3300100: gums 4
+    3300102: gums 5
+    3300104: gums 6
+    3300106: gums 7
+    3300108: gums 8
+    3300110: gums 9
+    3300112: gums cut 10
+    3300114: gums cut 11
+    3300116: gums cut 12
+    3300118: gums cut 13
+    3300120: gums cut 14
+    3300122: gums cut 15
+    3300124: gums cut 2
+    3300126: gums cut 3
+    3300128: gums cut 4
+    3300130: gums cut 5
+    3300132: gums cut 6
+    3300134: gums cut 7
+    3300136: gums cut 8
+    3300138: gums cut 9
+    4300000: gums 14
+    4300002: bone 9
+    4300004: gums 9
+    4300006: gums 6
+    4300008: gums 2
+    4300010: gums 3
+    4300012: gums 4
+    4300014: gums 5
+    4300016: gums 8
+    4300018: gums 7
+    4300020: gums 10
+    4300022: gums 11
+    4300024: gums 13
+    4300026: gums 12
+    4300028: gums 15
+    4300030: bone 3
+    4300032: bone 2
+    4300034: bone 4
+    4300036: bone 5
+    4300038: bone 6
+    4300040: bone 8
+    4300042: bone 7
+    4300044: bone 10
+    4300046: bone 11
+    4300048: bone 13
+    4300050: bone 12
+    4300052: bone 15
+    4300054: bone 14
+    4300056: bone cut 10
+    4300058: bone cut 11
+    4300060: bone cut 12
+    4300062: bone cut 13
+    4300064: bone cut 14
+    4300066: bone cut 15
+    4300068: bone cut 2
+    4300070: bone cut 3
+    4300072: bone cut 4
+    4300074: bone cut 5
+    4300076: bone cut 6
+    4300078: bone cut 7
+    4300080: bone cut 8
+    4300082: bone cut 9
+    4300084: bone cut2 10
+    4300086: bone cut2 11
+    4300088: bone cut2 12
+    4300090: bone cut2 13
+    4300092: bone cut2 14
+    4300094: bone cut2 15
+    4300096: bone cut2 2
+    4300098: bone cut2 3
+    4300100: bone cut2 4
+    4300102: bone cut2 5
+    4300104: bone cut2 6
+    4300106: bone cut2 7
+    4300108: bone cut2 8
+    4300110: bone cut2 9
+    4300112: gums cut 2
+    4300114: gums cut 3
+    4300116: gums cut 4
+    4300118: gums cut 5
+    4300120: gums cut 6
+    4300122: gums cut 7
+    4300124: gums cut 8
+    4300126: gums cut 9
+    4300128: gums cut 10
+    4300130: gums cut 11
+    4300132: gums cut 12
+    4300134: gums cut 13
+    4300136: gums cut 14
+    4300138: gums cut 15
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
