@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 6ba83cb92e3a5e14da7438f74ebadb8b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: black1
+    100002: board
+    100004: body
+    100006: buttons
+    100008: computer
+    100010: folders
+    100012: folders 1
+    100014: grey
+    100016: holder
+    100018: keyboard1
+    100020: keys
+    100022: mac
+    100024: metal
+    100026: metal 1
+    100028: mouse
+    100030: mug
+    100032: //RootNode
+    100034: paper
+    100036: paper 1
+    100038: paperholder
+    100040: papers
+    100042: pencilholder
+    100044: pencils
+    100046: phone
+    100048: screen1
+    100050: tabs
+    100052: telephone
+    100054: white
+    100056: white 1
+    400000: black1
+    400002: board
+    400004: body
+    400006: buttons
+    400008: computer
+    400010: folders
+    400012: folders 1
+    400014: grey
+    400016: holder
+    400018: keyboard1
+    400020: keys
+    400022: mac
+    400024: metal
+    400026: metal 1
+    400028: mouse
+    400030: mug
+    400032: //RootNode
+    400034: paper
+    400036: paper 1
+    400038: paperholder
+    400040: papers
+    400042: pencilholder
+    400044: pencils
+    400046: phone
+    400048: screen1
+    400050: tabs
+    400052: telephone
+    400054: white
+    400056: white 1
+    2100000: base
+    2100002: mat4
+    2100004: black
+    2100006: Porcelain_black
+    2100008: Family_File_window
+    2100010: Porcelain_White
+    2100012: light
+    2100014: mat5
+    2100016: mat1
+    2100018: mat2
+    2100020: keyboard
+    2100022: mat83
+    2100024: Brushed_Metal
+    2100026: lambert2
+    2100028: Matte_black1
+    2100030: lambert3
+    2100032: dbl_Stabilo_Pen_5_001
+    2100034: dbl_Stabilo_Pen_4_001
+    2100036: dbl_Stabilo_Pen_5_003
+    2100038: dbl_Stabilo_Pen_5_004
+    2100040: dbl_Stabilo_Pen_5_002
+    2100042: dbl_Stabilo_Pen_3_001
+    2100044: dbl_Stabilo_Pen_2_001
+    2100046: dbl_Stabilo_Pen_1_001
+    2100048: dbl_Stabilo_Pen_6_001
+    2100050: blue
+    2100052: silver
+    2100054: lambert4
+    2100056: dbl_Componente_1_001
+    2100058: Folders
+    2100060: dbl_Group_001
+    2100062: dbl_Componente_24_001
+    2100064: dbl_Componente_24_002
+    2100066: lightsilver
+    2100068: dbl_Componente_24_004
+    2100070: silver1
+    2100072: dbl_Group_002
+    2100074: dbl_desk_folder_organizer_003
+    2100076: Patient_Registration_Form
+    2100078: dbl_Componente_24_003
+    2100080: dbl_Componente_24_005
+    2100082: Background
+    2100084: newpatient
+    2100086: dbl_Componente_24_006
+    2300000: black1
+    2300002: board
+    2300004: body
+    2300006: buttons
+    2300008: folders 1
+    2300010: grey
+    2300012: holder
+    2300014: keys
+    2300016: metal
+    2300018: metal 1
+    2300020: mug
+    2300022: paper
+    2300024: paper 1
+    2300026: papers
+    2300028: pencils
+    2300030: screen1
+    2300032: tabs
+    2300034: telephone
+    2300036: white
+    2300038: white 1
+    3300000: black1
+    3300002: board
+    3300004: body
+    3300006: buttons
+    3300008: folders 1
+    3300010: grey
+    3300012: holder
+    3300014: keys
+    3300016: metal
+    3300018: metal 1
+    3300020: mug
+    3300022: paper
+    3300024: paper 1
+    3300026: papers
+    3300028: pencils
+    3300030: screen1
+    3300032: tabs
+    3300034: telephone
+    3300036: white
+    3300038: white 1
+    4300000: body
+    4300002: black1
+    4300004: screen1
+    4300006: white
+    4300008: grey
+    4300010: keys
+    4300012: board
+    4300014: white
+    4300016: telephone
+    4300018: buttons
+    4300020: holder
+    4300022: pencils
+    4300024: mug
+    4300026: metal
+    4300028: folders
+    4300030: paper
+    4300032: tabs
+    4300034: metal
+    4300036: paper
+    4300038: papers
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
