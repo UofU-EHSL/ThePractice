@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class testAnimation : MonoBehaviour {
+public class flat_down : MonoBehaviour {
 
     public int AnimationLayer;
     public float AnimationTime;
