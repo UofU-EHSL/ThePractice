@@ -25,6 +25,7 @@ public class single_tooth : MonoBehaviour {
     public GameObject jaw;
     public GameObject small_hole;
     public GameObject large_hole;
+    public GameObject xray;
 
     [Header("Impressions")]
     public GameObject impression_parent;
@@ -76,6 +77,7 @@ public class single_tooth : MonoBehaviour {
         jaw = GameObject.Find("Mandible " + tooth_number.ToString());
         small_hole = GameObject.Find("Mandible cut " + tooth_number.ToString());
         large_hole = GameObject.Find("Mandible cut2 " + tooth_number.ToString());
+        xray = GameObject.Find("xray tooth " + tooth_number.ToString());
 
         cut_gum.GetComponent<MeshRenderer>().enabled = false;
         small_hole.GetComponent<MeshRenderer>().enabled = false;

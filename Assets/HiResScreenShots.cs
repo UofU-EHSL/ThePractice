@@ -4,26 +4,16 @@ using System.IO;
 
 public class HiResScreenShots : MonoBehaviour
 {
-    public GameObject[] materials;
+    public int number;
+    public Material[] materials;
  
     // 4k = 3840 x 2160   1080p = 1920 x 1080
     public int captureWidth = 1920;
     public int captureHeight = 1080;
-
-    // optional game object to hide during screenshots (usually your scene canvas hud)
-    public GameObject hideGameObject;
-
-    // optimize for many screenshots will not destroy any objects so future screenshots will be fast
     public bool optimizeForManyScreenshots = true;
-
-    // configure with raw, jpg, png, or ppm (simple raw format)
     public enum Format { RAW, JPG, PNG, PPM };
     public Format format = Format.PPM;
-
-    // folder to write output (defaults to data path)
     public string folder;
-
-    // private vars for screenshot
     private Rect rect;
     private RenderTexture renderTexture;
     private Texture2D screenShot;
@@ -59,9 +49,6 @@ public class HiResScreenShots : MonoBehaviour
         // use width, height, and counter for unique file name
         var filename = string.Format("{0}/screen_{1}x{2}_{3}.{4}", folder, width, height, counter, format.ToString().ToLower());
 
-        // up counter for next call
-        ++counter;
-
         // return unique filename
         return filename;
     }
@@ -81,9 +68,6 @@ public class HiResScreenShots : MonoBehaviour
         {
             captureScreenshot = false;
 
-            // hide optional game object if set
-            if (hideGameObject != null) hideGameObject.SetActive(false);
-
             // create screenshot objects if needed
             if (renderTexture == null)
             {
@@ -97,18 +81,11 @@ public class HiResScreenShots : MonoBehaviour
             Camera camera = this.GetComponent<Camera>(); // NOTE: added because there was no reference to camera in original script; must add this script to Camera
             camera.targetTexture = renderTexture;
             camera.Render();
-            //materials[counter].GetComponent<MeshRenderer>().material = new Material(materials[counter].GetComponent<MeshRenderer>().material);
-            //materials[counter].GetComponent<MeshRenderer>().material.SetTexture("_MainTex", renderTexture);
-            //
-            materials[0].GetComponent<Renderer>().material.SetTexture("_MainTex", renderTexture);
+            
             // read pixels will read from the currently active render texture so make our offscreen 
             // render texture active and then read the pixels
             RenderTexture.active = renderTexture;
             screenShot.ReadPixels(rect, 0, 0);
-
-            // reset active camera texture and render texture
-            //camera.targetTexture = null;
-            //RenderTexture.active = null;
 
             // get our unique filename
             string filename = uniqueFilename((int)rect.width, (int)rect.height);
@@ -135,28 +112,7 @@ public class HiResScreenShots : MonoBehaviour
                 fileHeader = System.Text.Encoding.ASCII.GetBytes(headerStr);
                 fileData = screenShot.GetRawTextureData();
             }
-
-            // create new thread to save the image to file (only operation that can be done in background)
-            
-            
-            /*
-            new System.Threading.Thread(() =>
-            {
-                // create file and write optional header with image bytes
-                var f = System.IO.File.Create(filename);
-                if (fileHeader != null) f.Write(fileHeader, 0, fileHeader.Length);
-                f.Write(fileData, 0, fileData.Length);
-                f.Close();
-                Debug.Log(string.Format("Wrote screenshot {0} of size {1}", filename, fileData.Length));
-            }).Start();
-            */
-
-
-
-
-            // unhide optional game object if set
-            if (hideGameObject != null) hideGameObject.SetActive(true);
-
+            materials[0].SetTexture("_MainTex", screenShot);
             // cleanup if needed
             if (optimizeForManyScreenshots == false)
             {

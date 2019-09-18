@@ -8,11 +8,11 @@ using UnityEngine.Events;
     public class xray : MonoBehaviour
     {
 
-        public UnityEvent takeXray;
-        MaterialControl[] m_BeLightOfs;
+        //public UnityEvent takeXray;
+        public MaterialControl[] m_BeLightOfs;
         [Header("Thickness")]
         public Camera m_MainCam;
-        [Range(0.05f, 0.3f)] public float m_ThicknessRange = 0.03f;
+        [Range(-10.00f, 10f)] public float m_ThicknessRange = 0.03f;
         [Header("Internal")]
         RenderTexture m_RTThicknessMapMesh;
         RenderTexture m_RTThicknessMap;
@@ -45,10 +45,6 @@ using UnityEngine.Events;
         }
         private void Update()
         {
-            if (gameObject.GetComponent<xray_trigger>().clicked == true)
-            {
-                takeXray.Invoke();
-            }
             // build thickness map
             if (m_RTCamObj == null)
             {
@@ -63,15 +59,20 @@ using UnityEngine.Events;
             m_RTCam.backgroundColor = Color.black;
             m_RTCam.clearFlags = CameraClearFlags.SolidColor;
             m_RTCam.RenderWithShader(m_SdrThicknessMesh, "");
-            //m_MatThicknessMap.SetTexture ("_ThicknessTex", m_RTThicknessMapMesh);
+            m_MatThicknessMap.SetTexture ("_ThicknessTex", m_RTThicknessMapMesh);
             m_MatThicknessMap.SetFloat("_Sigma", m_ThicknessRange);
             Graphics.Blit(m_RTThicknessMapMesh, m_RTThicknessMap, m_MatThicknessMap);
 
-            m_BeLightOfs[0].SetMaterialsTexture("_ThicknessTex", m_RTThicknessMap);
-
+            foreach (MaterialControl item in m_BeLightOfs)
+            {
+                item.SetMaterialsTexture("_ThicknessTex", m_RTThicknessMap);
+            }
         }
         void ApplyLightType()
         {
-            m_BeLightOfs[0].SetShader(Shader.Find("Translucent Subsurface Scattering/Directional Light"));
+            foreach (MaterialControl item in m_BeLightOfs)
+            {
+                item.SetShader(Shader.Find("Translucent Subsurface Scattering/Directional Light"));
+            }
         }
     }
