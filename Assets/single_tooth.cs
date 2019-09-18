@@ -277,7 +277,7 @@ public class single_tooth : MonoBehaviour {
         }
         //impressions
         if (other.tag == "impression") {
-            MRI.GetComponent<random_person>().impress();
+            //MRI.GetComponent<random_person>().impress();
         }
     }
 }
