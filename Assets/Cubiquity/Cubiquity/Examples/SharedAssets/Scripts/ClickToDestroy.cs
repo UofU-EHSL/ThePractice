@@ -58,7 +58,7 @@ public class ClickToDestroy : MonoBehaviour
         pickResult2.volumeSpacePos = new Vector3i(Convert.ToInt32((tool.transform.position.x - gameObject.transform.position.x) / gameObject.transform.localScale.x), Convert.ToInt32((tool.transform.position.y - gameObject.transform.position.y) / gameObject.transform.localScale.y), Convert.ToInt32((tool.transform.position.z - gameObject.transform.position.z) / gameObject.transform.localScale.z));
         if (use_tool == true)
         {
-            //Debug.Log("tool" + pickResult2.volumeSpacePos);
+            Debug.Log("tool" + pickResult2.volumeSpacePos);
             //Debug.Log("mouse" + pickResult.volumeSpacePos);
             DestroyVoxels(pickResult2.volumeSpacePos.x, pickResult2.volumeSpacePos.y, pickResult2.volumeSpacePos.z, range);
         }

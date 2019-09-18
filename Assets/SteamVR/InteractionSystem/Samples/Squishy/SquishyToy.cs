@@ -10,15 +10,11 @@ namespace Valve.VR.InteractionSystem
     {
         public Interactable interactable;
         public new SkinnedMeshRenderer renderer;
-        public float gripForce;
-        public float pinchForce;
+
         public bool affectMaterial = true;
 
         [SteamVR_DefaultAction("Squeeze")]
         public SteamVR_Action_Single gripSqueeze;
-
-        [SteamVR_DefaultAction("Trigger")]
-        public SteamVR_Action_Boolean trigger;
 
         [SteamVR_DefaultAction("Squeeze")]
         public SteamVR_Action_Single pinchSqueeze;
@@ -26,7 +22,6 @@ namespace Valve.VR.InteractionSystem
 
         private new Rigidbody rigidbody;
 
-        public bool triggered;
         private void Start()
         {
             if (rigidbody == null)
@@ -43,15 +38,11 @@ namespace Valve.VR.InteractionSystem
         {
             float grip = 0;
             float pinch = 0;
-            
+
             if (interactable.attachedToHand)
             {
                 grip = gripSqueeze.GetAxis(interactable.attachedToHand.handType);
                 pinch = pinchSqueeze.GetAxis(interactable.attachedToHand.handType);
-                gripForce = grip;
-                pinchForce = pinch;
-
-                triggered = trigger.GetState(interactable.attachedToHand.handType);
             }
 
             renderer.SetBlendShapeWeight(0, Mathf.Lerp(renderer.GetBlendShapeWeight(0), grip * 150, Time.deltaTime * 10));
