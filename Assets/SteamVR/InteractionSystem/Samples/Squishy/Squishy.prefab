@@ -115,8 +115,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   interactable: {fileID: 0}
   renderer: {fileID: 0}
-  gripForce: 0
-  pinchForce: 0
   affectMaterial: 1
   gripSqueeze: {fileID: 11400000, guid: 7d888afebfda7e84f9f9711dc069c5d4, type: 2}
   pinchSqueeze: {fileID: 11400000, guid: 7d888afebfda7e84f9f9711dc069c5d4, type: 2}

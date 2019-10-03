@@ -125,7 +125,8 @@
       "/actions/Dental/in/NewAction": "Pose",
       "/actions/Dental/in/SkeletonLeftHand": "Skeleton (Left)",
       "/actions/Dental/in/SkeletonRightHand": "Skeleton (Right)",
-      "/actions/Dental/out/Haptic": "Haptic"
+      "/actions/Dental/out/Haptic": "Haptic",
+      "/actions/default/in/trigger": "trigger"
     }
   ]
 }
