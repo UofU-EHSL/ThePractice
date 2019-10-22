@@ -1,0 +1,9 @@
+newmtl material0
+newmtl material1
+map_Kd pre-op1.png
+newmtl material2
+map_Kd pre-op2.png
+newmtl material3
+map_Kd pre-op3.png
+newmtl material4
+map_Kd pre-op4.png
